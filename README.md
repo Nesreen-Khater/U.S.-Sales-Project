@@ -24,7 +24,9 @@ The raw data was cleaned and transformed using Power Query:
 - Built a star schema model with proper relationships
 
 ## 📌 Preview
-<img width="2074" height="1325" alt="U S  Dashboard" src="https://github.com/user-attachments/assets/8dfc40bd-9396-4c3c-b4bf-7296641b9cd5" />
+<img width="2022" height="1325" alt="U S  Dashboard" src="https://github.com/user-attachments/assets/9639a812-f8e1-4426-b603-f0b10f9ee190" />
+
+
 
 
 ## 📁 Files
